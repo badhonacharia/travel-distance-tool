@@ -1,4 +1,4 @@
-# 🏥 Doctor Appointment Booking System
+# 🌍 Travel Distance & Time Comparison Tool
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-blue?logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-8.x-orange?logo=mysql)
