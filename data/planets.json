@@ -1,0 +1,26 @@
+{
+  "earth": {
+    "name": "Earth",
+    "au": 1
+  },
+  "moon": {
+    "name": "Moon",
+    "km_from_earth": 384400
+  },
+  "venus": {
+    "name": "Venus",
+    "au": 0.723
+  },
+  "mars": {
+    "name": "Mars",
+    "au": 1.524
+  },
+  "jupiter": {
+    "name": "Jupiter",
+    "au": 5.203
+  },
+  "saturn": {
+    "name": "Saturn",
+    "au": 9.582
+  }
+}

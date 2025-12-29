@@ -1,0 +1,18 @@
+{
+  "car": {
+    "label": "🚗 Car",
+    "speed_kmh": 100
+  },
+  "plane": {
+    "label": "✈️ Plane",
+    "speed_kmh": 900
+  },
+  "rocket": {
+    "label": "🚀 Rocket",
+    "speed_kmh": 28000
+  },
+  "spacecraft": {
+    "label": "🛰 Spacecraft",
+    "speed_kmh": 58000
+  }
+}
