@@ -30,7 +30,6 @@ This project focuses on education, visualization, and human-friendly explanation
 ### Travel time comparison:
 - 🚗 Car
 - ✈️ Commercial Plane
----
 
 ### 🪐 Planetary Distance
 
@@ -44,7 +43,6 @@ This project focuses on education, visualization, and human-friendly explanation
  - ✈️ Plane
  - 🚀 Rocket
  - 🛰 Spacecraft
----
 
 ### 🛰 Space Missions (SpaceX)
 
